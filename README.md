@@ -16,7 +16,7 @@ Ellis' algorithm is a Markov Chain, implemented in a gem I wrote called
 $ bundle exec middleman build
 $ git add build/
 $ gc -m 'Message'
-$ git push heroku master
+$ git push heroku main
 ```
 
 ### License

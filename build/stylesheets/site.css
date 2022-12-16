@@ -17,7 +17,7 @@ h1 {
   @media (max-width: 390px) {
     h1 {
       font-size: 4rem; } }
-.chapter {
+article {
   text-align: left; }
 
 .date {

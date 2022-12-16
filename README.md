@@ -7,7 +7,7 @@ This is the source code for the computer-generated novel *Ceramic Nation*,
 written by a bot named Ellis Champlin. Ellis wrote a chapter a day from
 2015-2022. You can read the [the novel here][novel].
 
-Ellis' algorithm is a Markov Chain, implemented in a gem I wrote called
+Ellis' algorithm is a Markov Chain, implemented via the gem
 [Remarkovable](https://rubygems.org/gems/remarkovable).
 
 ### Deployment

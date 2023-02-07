@@ -23,4 +23,4 @@ $ git push heroku main
 
 This project is released under the [MIT License](http://www.opensource.org/licenses/MIT).
 
-[novel]: https://novel.herokuapp.com
+[novel]: https://ceramic-nation.vercel.app/
